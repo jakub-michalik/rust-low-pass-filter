@@ -1,0 +1,11 @@
+[package]
+name = "rust_low_pass_filter"
+version = "0.1.0"
+authors = ["Your Name <your.email@example.com>"]
+edition = "2018"
+
+[[bin]]
+name = "rust_low_pass_filter"
+path = "src/main.rs"
+
+[dependencies]
