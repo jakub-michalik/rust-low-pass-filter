@@ -2,7 +2,7 @@
 
 This repository contains a trivial, yet efficient implementation of a Low-Pass Filter (LPF) written in Rust. The program uses a decoupled architecture and the Chain of Responsibility design pattern.
 
-```
+```mermaid
 classDiagram
     class LeakyIntegrator {
         -a: f64
